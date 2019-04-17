@@ -2,7 +2,7 @@
 
 <a href="http://www.adafruit.com/products/931"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
-Format is EagleCAD schematic and board layout
+__Format is EagleCAD schematic and board layout__
 
 These displays are small, only about 1" diagonal, but very readable due to the high contrast of an OLED display. This display is made of 128x32 individual white OLED pixels, each one is turned on or off by the controller chip. Because the display makes its own light, no backlight is required. This reduces the power required to run the OLED and is why the display has such high contrast; we really like this miniature display for its crispness!
 
